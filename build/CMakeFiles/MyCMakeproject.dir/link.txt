@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/MyCMakeproject.dir/HelloWorld.c.o CMakeFiles/MyCMakeproject.dir/generateMessage.c.o -o MyCMakeproject 

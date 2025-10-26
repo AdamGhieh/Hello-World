@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/adam-g/Documents/Projects/HelloWorld/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/MyCMakeproject.dir/HelloWorld.c.o -c /home/adam-g/Documents/Projects/HelloWorld/HelloWorld.c",
+  "file": "/home/adam-g/Documents/Projects/HelloWorld/HelloWorld.c"
+},
+{
+  "directory": "/home/adam-g/Documents/Projects/HelloWorld/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/MyCMakeproject.dir/generateMessage.c.o -c /home/adam-g/Documents/Projects/HelloWorld/generateMessage.c",
+  "file": "/home/adam-g/Documents/Projects/HelloWorld/generateMessage.c"
+}
+]
